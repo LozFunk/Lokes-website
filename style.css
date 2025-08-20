@@ -29,9 +29,9 @@ ul li a{
 
 a {
     position: relative;
-  }
-  
-  a::before {
+}
+
+a::before {
     content: '';
     position: absolute;
     bottom: -5px;
@@ -41,12 +41,12 @@ a {
     background: linear-gradient(320deg, rgba(34, 193, 195, 1) 0%, rgb(138, 81, 212) 100%);
     border-radius: 0;
     transition: all 0.5s ease-in-out;
-  }
+}
   
-  a:hover::before {
+a:hover::before {
     width: 100%;
     border-radius: 50%;
-  }
+}
 
 .container{
     padding:100px 300px;
