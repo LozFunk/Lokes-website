@@ -32,12 +32,12 @@ The site highlights her **research projects, background, and contact information
 
 ---
 
-🛠 Contributing
+## 🛠 Contributing
 
-This is a personal website, so external contributions are not expected.
+ - This is a personal website, so external contributions are not expected.
 
 ---
 
-🏗 Status
+## 🏗 Status
 
-Currently in development. Expect frequent updates and design improvements.
+- Currently in development. Expect frequent updates and design improvements.
