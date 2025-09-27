@@ -31,3 +31,13 @@ The site highlights her **research projects, background, and contact information
 - 🧪 **SEO & Accessibility Enhancements**
 
 ---
+
+🛠 Contributing
+
+This is a personal website, so external contributions are not expected.
+
+---
+
+🏗 Status
+
+Currently in development. Expect frequent updates and design improvements.
