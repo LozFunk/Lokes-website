@@ -3,18 +3,18 @@
 This is a personal portfolio website for **Evgeniya Lokes**, a bioinformatician and computational biologist.  
 The site highlights her **research projects, background, and contact information** in a simple, clean layout.
 
-🚧 **Work in Progress** – This site is actively being developed and updated.
+**Work in Progress** – This site is actively being developed and updated.
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 - **HTML5** – Semantic and responsive structure
 - **CSS3** – Custom styles, mobile-friendly layout
 - (Optional: Future) **JavaScript** – For interactivity, animations, or form validation
 
 ---
 
-## 🖼 Current Features
+## Current Features
 - **Hero Section** – Name, title, and short tagline
 - **About Section** – Short bio and research focus
 - **Research & Projects Section** – Highlighting selected projects with descriptions
@@ -23,21 +23,21 @@ The site highlights her **research projects, background, and contact information
 
 ---
 
-## 🗺 Planned Features
-- 📄 **Downloadable CV** (link in navigation)
-- 🎨 **Improved Styling** with more polished typography and color palette
-- 🌗 **Dark Mode Support**
-- 🖱 **Interactive Components** (e.g., project cards that expand on click)
-- 🧪 **SEO & Accessibility Enhancements**
+## Planned Features
+-  **Downloadable CV** (link in navigation)
+-  **Improved Styling** with more polished typography and color palette
+-  **Dark Mode Support**
+-  **Interactive Components** (e.g., project cards that expand on click)
+-  **SEO & Accessibility Enhancements**
 
 ---
 
-## 🛠 Contributing
+## Contributing
 
  - This is a personal website, so external contributions are not expected.
 
 ---
 
-## 🏗 Status
+## Status
 
 - Currently in development. Expect frequent updates and design improvements.
